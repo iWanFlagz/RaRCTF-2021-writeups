@@ -8,8 +8,6 @@ nav_order: 1
 # Lemonthinker
 
 ```
-Challenge instance ready at 193.57.159.27:36679.
-
 generate your lemonthinks here!
 ```
 

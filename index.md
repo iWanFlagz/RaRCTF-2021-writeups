@@ -20,5 +20,6 @@ Writeups for the Challenges that iWanFlagz solved in [RarCTF 2021](https://ctfti
 * [Web](web/index.md)
     * [Fancy Button Generator](web/fbg.md)
     * [Lemonthinker](web/lemonthinker.md)
+    * [Secure Uploader](web/secureuploader.md)
 
 ----
