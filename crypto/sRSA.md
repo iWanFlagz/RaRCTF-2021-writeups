@@ -6,11 +6,14 @@ nav_order: 1
 ---
 
 # sRSA
-`we have created the securest possible rsa algorithm!`
-
-> TLDR: Multiply ciphertext with the modular inverse of e
+```
+we have created the securest possible rsa algorithm!
+```
 
 ## Challenge
+
+> TL;DR: Multiply ciphertext with the modular inverse of e
+
 The challenge provides the following files:
 
 `script.py`

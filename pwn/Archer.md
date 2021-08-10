@@ -6,10 +6,13 @@ nav_order: 1
 ---
 
 # Archer
-`It's battle time! We're giving you one shot, one kill - choose wisely.`
+```
+It's battle time! We're giving you one shot, one kill - choose wisely.
+```
 
 ## Challenge
-> TLDR: Input an address so that supplied address + 0x500000 = address of `code` variable
+
+> TL;DR: Input an address so that supplied address + 0x500000 = address of `code` variable
 
 Ghidra's decompiled `main()`
 ```c
