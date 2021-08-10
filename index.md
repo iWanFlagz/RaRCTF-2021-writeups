@@ -19,5 +19,6 @@ Writeups for the Challenges that iWanFlagz solved in [RarCTF 2021](https://ctfti
     * [Archer](pwn/Archer.md)
 * [Web](web/index.md)
     * [Fancy Button Generator](web/fbg.md)
+    * [Lemonthinker](web/lemonthinker.md)
 
 ----
