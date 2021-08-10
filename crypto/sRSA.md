@@ -1,3 +1,10 @@
+---
+grand_parent: Categories
+parent: Crypto
+title: sRSA
+nav_order: 1
+---
+
 # sRSA
 `we have created the securest possible rsa algorithm!`
 
