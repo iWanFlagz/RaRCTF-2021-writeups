@@ -14,7 +14,7 @@ I came up with 'Harmony' as a name months before DragonCTF had their challenge, 
 
 ## Challenge
 
-> TL;DR: Buffer overflow to overwrite `update_username()` function ptr to `set_role()`. 
+> TL;DR: Buffer overflow to overwrite `update_username()` function ptr to `set_role()`. Then, use "Change username" functionality and read "secret-admin-chat" channel.
 
 Running the program:
 ```
@@ -104,7 +104,7 @@ void set_role(long param_1,undefined4 param_2)
 Knowledge gained after analysing the binary:
 - When the binary calls `update_username()`, the $rdi (1st arg) and the $rsi (2nd arg) contains the address of current_user and 0x0 respectively.
 
-If we overwrite the address of `update_username()` with `set_role()`, we can modify the value of `*(current_user + 4)` to 0x0 (which is our goal). Then, we can read the "secret-admin-chat" channel
+If we overwrite the address of `update_username()` with `set_role()` and then use "Change username" functionality, we can modify the value of `*(current_user + 4)` to 0x0 (which is our goal). Then, we can read the "secret-admin-chat" channel
 
 Working POC:
 ```python
