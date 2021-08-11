@@ -6,4 +6,4 @@ has_toc: false
 ---
 
 * [Archer](Archer.md)
-* [Not That Simple](pwn/Not%20That%20Simple.md)
+* [Not That Simple](Not%20That%20Simple.md)
