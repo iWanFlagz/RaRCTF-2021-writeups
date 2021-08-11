@@ -12,7 +12,7 @@ I've been working on a new Farm Simulator game, try it out! I just wish I knew w
 
 ## Challenge
 
-> TL;DR: Exploit heap overflow. Buy two pigs, overflow to modify the max_age (so that you can sell for more money), sell the second pig, repeat the process until the balance is > 1300, feed the first pig, overflow to modify the animal type to "flag", buy translator and lastly translate.
+> TL;DR: Exploit heap overflow. Buy two pigs, overflow to modify the max_age of the second pig (so that you can sell for more money), sell the second pig, feed the first pig if we have sufficient money. Repeat this process until the balance is > 1300, feed the first pig, overflow to modify the second pig's type to "flag", buy a translator and lastly translate what the second pig is saying.
 
 Running the program:
 ``` bash
