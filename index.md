@@ -20,6 +20,7 @@ Writeups for the Challenges that iWanFlagz solved in [RarCTF 2021](https://ctfti
     * [Archer](pwn/Archer.md)
     * [Not That Simple](pwn/NotThatSimple.md)
     * [RaRmony](pwn/RaRmony.md)
+    * [Object Oriented Pwning](pwn/ObjectOrientedPwning.md)
 * [Web](web/index.md)
     * [Fancy Button Generator](web/fbg.md)
     * [Lemonthinker](web/lemonthinker.md)

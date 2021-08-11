@@ -14,7 +14,7 @@ I came up with 'Harmony' as a name months before DragonCTF had their challenge, 
 
 ## Challenge
 
-> TL;DR: Buffer overflow to overwrite `update_username()` function ptr to `set_role()`. Then, use "Change username" functionality and read "secret-admin-chat" channel.
+> TL;DR: Overflow to overwrite `update_username()` function ptr to `set_role()`. Then, use "Change username" functionality and read "secret-admin-chat" channel.
 
 Running the program:
 ```
