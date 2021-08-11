@@ -15,6 +15,7 @@ Writeups for the Challenges that iWanFlagz solved in [RarCTF 2021](https://ctfti
 
 * [Crypto](crypto/index.md)
     * [sRSA](crypto/sRSA.md)
+    * [minigen](crypto/minigen.md)
 * [Pwn](pwn/index.md)
     * [Archer](pwn/Archer.md)
 * [Web](web/index.md)
