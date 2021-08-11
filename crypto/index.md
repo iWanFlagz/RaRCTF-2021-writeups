@@ -6,3 +6,4 @@ has_toc: false
 ---
 
 * [sRSA](sRSA.md)
+* [minigen](minigen.md)
