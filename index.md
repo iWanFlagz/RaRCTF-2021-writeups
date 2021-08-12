@@ -25,6 +25,7 @@ Writeups for the Challenges that iWanFlagz solved in [RarCTF 2021](https://ctfti
     * [Fancy Button Generator](web/fbg.md)
     * [Lemonthinker](web/lemonthinker.md)
     * [Microservice as a Service 1](maas1.md)
+    * [Microservice as a Service 2](maas2.md)
     * [Secure Uploader](web/secureuploader.md)
 
 ----
