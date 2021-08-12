@@ -27,6 +27,7 @@ Writeups for the Challenges that iWanFlagz solved in [RarCTF 2021](https://ctfti
     * [Microservice as a Service 1](maas1.md)
     * [Microservice as a Service 2](maas2.md)
     * [Microservice as a Service 3](maas3.md)
+    * [Microservice as a Service 3.5](maas3-5.md)
     * [Secure Uploader](web/secureuploader.md)
 
 ----

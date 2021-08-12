@@ -10,4 +10,5 @@ has_toc: false
 * [Microservice as a Service 1](maas1.md)
 * [Microservice as a Service 2](maas2.md)
 * [Microservice as a Service 3](maas3.md)
+* [Microservice as a Service 3.5](maas3-5.md)
 * [Secure Uploader](secureuploader.md)
